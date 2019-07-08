@@ -7,7 +7,6 @@ const StyledHeadline = styled.h1`
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
   color: ${({ theme }) => theme.secondary};
 `
 
